@@ -56,7 +56,7 @@ if (isMobile) {
         var image = document.getElementById('background');
         image.crossOrigin = 'anonymous';
         //image.src = 'http://i.imgur.com/Sr5QsYO.jpg';
-        image.src = '/image1.png';
+        image.src = 'https://drive.google.com/file/d/1Lpbg9HUvNiUWWnPRLXvZsBK_Vw9VET-w/view?usp=sharing';
 
 
         var theWindow = $(window),
