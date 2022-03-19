@@ -535,6 +535,7 @@ img {
 }
 
 #background {
+    background-image: url("image1.png");
     position: fixed;
     top: 0;
     left: 0;
